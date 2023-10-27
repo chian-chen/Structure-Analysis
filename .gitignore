@@ -1,3 +1,28 @@
+# Added by myself
+
+**/Data/
+**/Output/
+
+# Ignore MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
